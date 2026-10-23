@@ -1,0 +1,9 @@
+epsilon,mean_mae,std_mae,mean_rmse,std_rmse,mean_r2,utility_loss_pct,mean_clipped_rmse,std_clipped_rmse,mean_clipped_mae,mean_clipped_r2,clipped_utility_loss_pct,n_repeats,avg_fit_time_sec,protected_unit,formal_guarantee
+0.05,8868044.9412,17732258.6903,10618291.28312,21231513.19193,-6684957071151299.0,5697577923.3,0.93933,0.13196,0.82798,-9.67358,404.03,5,0.0479,"Single 30-min record (x_i, y_i)","Record-level pure (epsilon, 0)-Differential Privacy"
+0.1,7618487.44583,15235388.29024,9073350.06215,18144499.88511,-4882096018941336.0,4868591138.78,0.93113,0.11402,0.81284,-9.43936,399.63,5,0.0585,"Single 30-min record (x_i, y_i)","Record-level pure (epsilon, 0)-Differential Privacy"
+0.2,283.71439,88.73032,382.39073,115.73981,-1893511.23985,205083.77,0.87626,0.11871,0.74245,-8.27581,370.19,5,0.0535,"Single 30-min record (x_i, y_i)","Record-level pure (epsilon, 0)-Differential Privacy"
+0.5,146.13865,117.50388,208.81744,174.29439,-877643.57811,111947.56,0.80179,0.07253,0.64596,-6.68861,330.23,5,0.0487,"Single 30-min record (x_i, y_i)","Record-level pure (epsilon, 0)-Differential Privacy"
+1.0,84.3972,162.96053,122.56897,237.0372,-844742.60241,65668.23,0.56044,0.26381,0.43193,-3.55156,200.72,5,0.0427,"Single 30-min record (x_i, y_i)","Record-level pure (epsilon, 0)-Differential Privacy"
+2.0,0.1785,0.12821,0.29196,0.19056,-0.442,56.66,0.2392,0.08511,0.14843,0.23532,28.35,5,0.022,"Single 30-min record (x_i, y_i)","Record-level pure (epsilon, 0)-Differential Privacy"
+5.0,0.1076,0.00078,0.18868,0.0013,0.57765,1.24,0.18868,0.00131,0.10759,0.57768,1.24,5,0.0269,"Single 30-min record (x_i, y_i)","Record-level pure (epsilon, 0)-Differential Privacy"
+10.0,0.10658,0.00027,0.18755,0.00055,0.58272,0.64,0.18754,0.00055,0.10657,0.58276,0.63,5,0.0292,"Single 30-min record (x_i, y_i)","Record-level pure (epsilon, 0)-Differential Privacy"

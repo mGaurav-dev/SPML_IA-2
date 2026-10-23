@@ -1,0 +1,8 @@
+representation_method,dimension,utility_rmse,utility_mae,utility_r2,adversary_sensitive_auc,adversary_sensitive_acc,privacy_mechanism,syllabus_concept
+Raw Features (Uncompressed),8,0.186365,0.105744,0.587982,0.9016,0.7319,None (Full sensitive exposure),Uncompressed Data Baseline
+Standard PCA (k=2),2,0.194828,0.110432,0.549716,0.8956,0.728,Variance Maximization (Oblivious to Sensitive Attribute),Naive Dimensionality Reduction (Not Compressive Privacy)
+Compressive Privacy Subspace (k=2),2,0.297867,0.192995,-0.052517,0.5174,0.6583,Privacy Funnel Orthogonal Null-Space Projection (Pi_{S^perp}),Compressive Privacy for Machine Learning (Module 5)
+Standard PCA (k=4),4,0.194645,0.111056,0.55056,0.8903,0.7346,Variance Maximization (Oblivious to Sensitive Attribute),Naive Dimensionality Reduction (Not Compressive Privacy)
+Compressive Privacy Subspace (k=4),4,0.297471,0.192908,-0.049725,0.4647,0.6583,Privacy Funnel Orthogonal Null-Space Projection (Pi_{S^perp}),Compressive Privacy for Machine Learning (Module 5)
+Standard PCA (k=6),6,0.186619,0.10596,0.586862,0.9015,0.7322,Variance Maximization (Oblivious to Sensitive Attribute),Naive Dimensionality Reduction (Not Compressive Privacy)
+Compressive Privacy Subspace (k=6),6,0.297203,0.192422,-0.047833,0.4411,0.6583,Privacy Funnel Orthogonal Null-Space Projection (Pi_{S^perp}),Compressive Privacy for Machine Learning (Module 5)

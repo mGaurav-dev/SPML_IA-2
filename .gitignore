@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Large Raw Datasets (Exclude raw CSVs from git tracking per security brief)
+data/raw/*.csv
+data/processed/*.csv
+!data/processed/processed_features_sample.csv
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

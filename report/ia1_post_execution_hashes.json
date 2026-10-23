@@ -1,0 +1,257 @@
+﻿[
+    {
+        "RelativePath":  "\\LCL-June2015v2_0.csv",
+        "Length":  50755532,
+        "Hash":  "4997141DF1EFB62488305936C3D2AEE395C456F475542BFBDCD5A2145479BD61"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\.gitignore",
+        "Length":  455,
+        "Hash":  "02CE4CEC782AF7E6447397B08214E2E46373D0F467C13F233ECF127F50718959"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\main.py",
+        "Length":  12076,
+        "Hash":  "3A4E21E101E81DA706F235F4D4D0022A4CB6264C8267CEB57F45254781EFD0EE"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\README.md",
+        "Length":  7814,
+        "Hash":  "337EB0239FCD0AD7F872A9975CC8C0DA1C60853617089DB9C42C5167EB9D2ADB"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\requirements.txt",
+        "Length":  250,
+        "Hash":  "40CA857F5B83EF65DA024E1015D9CBCC8CAAFDB743303AD778086A78343116BC"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\.pytest_cache\\.gitignore",
+        "Length":  37,
+        "Hash":  "3ED731B65D06150C138E2DADB0BE0697550888A6B47EB8C45ECC9ADBA8B8E9BD"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\.pytest_cache\\CACHEDIR.TAG",
+        "Length":  191,
+        "Hash":  "37DC88EF9A0ABEDDBE81053A6DD8FDFB13AFB613045EA1EB4A5C815A74A3BDE4"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\.pytest_cache\\README.md",
+        "Length":  302,
+        "Hash":  "73FD6FCCDD802C419A6B2D983D6C3173B7DA97558AC4B589EDEC2DFE443DB9AD"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\.pytest_cache\\v\\cache\\lastfailed",
+        "Length":  2,
+        "Hash":  "44136FA355B3678A1146AD16F7E8649E94FB4FC21FE77E8310C060F61CAAFF8A"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\.pytest_cache\\v\\cache\\nodeids",
+        "Length":  1213,
+        "Hash":  "EDB06B9C62A210860AF0D20F70C4996FDF117479EB493D02D8AE5276D96CE5DC"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\data\\processed\\processed_features_sample.csv",
+        "Length":  82715,
+        "Hash":  "43FFD3CBA041E14A869C0D3E03DC66CD4CEDC8D559BF99723C2A27C5B36EA1D4"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\report\\DATASET_NOTES.md",
+        "Length":  4508,
+        "Hash":  "E1F1CCEC9F060C5BBC633DAF254BE544E27F23DF66617B0EAD566AAB26D5CB77"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\report\\IA1_Project_Report.md",
+        "Length":  35934,
+        "Hash":  "7F97FE8D1BA388BA435C54BF3570EB43228EA2FDE764B3474A08F741058C2169"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\figures\\aggregation_comparison.png",
+        "Length":  471620,
+        "Hash":  "529F3E94C308BDD2A4C90CD2D429C1B6D6C315292B9A0E236E17DF05659B6A5F"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\figures\\prediction_comparison.png",
+        "Length":  667830,
+        "Hash":  "3299339EAEE156327CAA7C7E803C7220C0F4CC5E84D05C26CC72D982DF89EB94"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\figures\\privacy_utility_plot.png",
+        "Length":  308667,
+        "Hash":  "3A0DB62BB1620EC87DF543F3E489D5CB58B1B9D8D27E9D5679FFDA18C0DDD807"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\logs\\run.log",
+        "Length":  5972,
+        "Hash":  "2C5C58EA68334EC7E9BC9F5AA2A8CC7474040F7297A14FB8F0D918FAA164A720"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\tables\\aggregation_comparison.csv",
+        "Length":  772,
+        "Hash":  "FB98C8F5DDDE3E916F35A6B5B9A76CDC3F9C9D282D9491636B34EC5FEE295714"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\tables\\baseline_metrics.csv",
+        "Length":  379,
+        "Hash":  "488C69D8E9B91432E745FD6B62ACA3EAB6293FAFC3C25DB5DCD6D9E91202373D"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\tables\\data_quality_report.json",
+        "Length":  763,
+        "Hash":  "5ABB33DC8DE4C10B00CB19E549592C60B8B4ACA6474DBB30F247B4DF4BF0A4DB"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\tables\\ldp_results.csv",
+        "Length":  491,
+        "Hash":  "8E628FAE896186117B25C7084E67968D42601F0DF58D7B75271A8EC1A1F437B7"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\tables\\privacy_comparison.csv",
+        "Length":  1602,
+        "Hash":  "D310AD3C2D11E58E79F4E79DABF992623F5EB8989C9BE225EB1C8763B63F4231"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\results\\tables\\run_config.json",
+        "Length":  944,
+        "Hash":  "E6D4B1FB4361AC65012C5680090BF6D1D949533A534BC2E9BB5E5FD01949AB66"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\aggregation_demo.py",
+        "Length":  3193,
+        "Hash":  "75BF34B64E733BD4C7E907C83C7DFADAB0DDCFE1F694689C0E3C6C56AA38E70E"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\baseline_model.py",
+        "Length":  5197,
+        "Hash":  "B8694C6F147FB9FE472BDA7EB5CD0FC5D93376E4A08FC317E745C62D51044BF3"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\config.py",
+        "Length":  3801,
+        "Hash":  "95CF67A8975EB02B548B803DB83A24F38559D4A6BDD3F67575FB908D1D9B0B4E"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\data_loader.py",
+        "Length":  10000,
+        "Hash":  "D45C5F32484FF4A56101F9C2E4453B12E99ED7BE4DD74D248B6BDE4F0E8570EA"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\dp_model.py",
+        "Length":  7173,
+        "Hash":  "DF50EFCD9B209E5CCA2F342B1EE94B79863CD3FEA2C5449B224EF74BD759C4C7"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\evaluation.py",
+        "Length":  9105,
+        "Hash":  "B338F14EF5E80875C83A06AAC20FC0AA63CA7E7ED881B24222E27903EA1E39AF"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\ldp_demo.py",
+        "Length":  7054,
+        "Hash":  "9DA0E341C6622E563AAC41E220DDB142ABDA8F719466622E4165C8085293848D"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\preprocessing.py",
+        "Length":  9607,
+        "Hash":  "007995B9C3BE6B1AB0423413C6F8B0E0C5C44FD8A2CB82CC224F5205AACFBE9C"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\utils.py",
+        "Length":  4195,
+        "Hash":  "A1584B49852D79C3AAB0FEF7F2679E0D610DF68E6A0278D2ABE17B154E9E98C8"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__init__.py",
+        "Length":  198,
+        "Hash":  "2CA9F5DDC0A1E9670C69764F7FBBBC4D776C01A777FA4F98860E01A5A68C314C"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\aggregation_demo.cpython-311.pyc",
+        "Length":  4628,
+        "Hash":  "50FCECB4F599A187911F31E504C8DC4CB34BF06DB4BDE3A0F34E7D5FB77B9D93"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\baseline_model.cpython-311.pyc",
+        "Length":  7283,
+        "Hash":  "4E1BF9A9D8DD6C7CE1AACEC72FE2AF652F61613DCAABD23EFE2F1C383395D6E6"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\config.cpython-311.pyc",
+        "Length":  8194,
+        "Hash":  "9766F8223937265B98E463D316D0D1AEF9794CD74726ED0AA29D6E5187178679"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\data_loader.cpython-311.pyc",
+        "Length":  13823,
+        "Hash":  "36A4AAAFCED7C3A9CB80E481FE6BF49DF52C57D2E44638C8CE92BC99B96B8314"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\dp_model.cpython-311.pyc",
+        "Length":  9309,
+        "Hash":  "7DBC18FA9522B5613324D48171D72A5DF1727A828F3899003990BAACD161214B"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\evaluation.cpython-311.pyc",
+        "Length":  13083,
+        "Hash":  "4002E00871F4CDE0A9A6FCE169913053FAAFF9A22CF58BDBEE244639D2558F42"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\ldp_demo.cpython-311.pyc",
+        "Length":  9837,
+        "Hash":  "0D9E3AB55E99BC5AE37F2977B82CF23967DB6FEB282704CBD994C7D695DDC64D"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\preprocessing.cpython-311.pyc",
+        "Length":  13331,
+        "Hash":  "BD4AEEF93449427CA8BF09AC26F8F99C20EEF613727D04CDD7C3A1DF2F2EFCEB"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\utils.cpython-311.pyc",
+        "Length":  7950,
+        "Hash":  "F259B2810A51180BFAB071381DF04ACA8F2A83AB6867844B83352AD4F003B6EB"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\src\\__pycache__\\__init__.cpython-311.pyc",
+        "Length":  376,
+        "Hash":  "D5FA6B882663E3C443A7C01F15A15133CE870760E82A361238432CCFCA787261"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\tests\\test_ldp.py",
+        "Length":  2536,
+        "Hash":  "8C5EA0EB3A8212A64B1CC6E7DB9E18FD094591A49DDEEDAA45B1B1D3A13094C0"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\tests\\test_pipeline_and_dp.py",
+        "Length":  3470,
+        "Hash":  "887F80E535F3F0993D53EDBFDC65C21B32126BEC4F1FF89D9273225D10AF0F94"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\tests\\test_preprocessing.py",
+        "Length":  3422,
+        "Hash":  "666BD8D89AF2D585AD299DD2F87251B693E31484B45B082390BE88380CAF6831"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\tests\\test_splits.py",
+        "Length":  2142,
+        "Hash":  "1F47AB36FD86D4320766CC1496801CFBAD6CC26F64E2588F3B89EE2151716B20"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\tests\\__pycache__\\test_ldp.cpython-311-pytest-9.1.1.pyc",
+        "Length":  12247,
+        "Hash":  "1CFE87D0725FD7ED2EB90FAE5D0A6800837201FCD02260E50398F73EA92C054B"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\tests\\__pycache__\\test_pipeline_and_dp.cpython-311-pytest-9.1.1.pyc",
+        "Length":  18560,
+        "Hash":  "383CB84EFD11C369EE0C521E520FF5FBE9BD7A14BF9905CF730F2D4E1E7C9F16"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\tests\\__pycache__\\test_preprocessing.cpython-311-pytest-9.1.1.pyc",
+        "Length":  15934,
+        "Hash":  "9132378B5421315F8CA6AC3E2C65017C1D97E7E1F317765DF75F0C4A4845E7CC"
+    },
+    {
+        "RelativePath":  "\\household-energy-privacy\\tests\\__pycache__\\test_splits.cpython-311-pytest-9.1.1.pyc",
+        "Length":  11652,
+        "Hash":  "6C08732B418828764FD40565D545189994E95273EFB41B41B0EF995D74AAB154"
+    }
+]
